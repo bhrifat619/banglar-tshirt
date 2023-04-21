@@ -1,0 +1,24 @@
+.orange{
+    background-color: orange;
+    padding: 5px;
+    border-radius: 6px;
+}
+.blue{
+    background-color: blue;
+    padding: 5px;
+    border-radius: 6px;
+    color: aliceblue;
+}
+.lightgreen{
+    background-color: lightgreen;
+    padding: 5px;
+    border-radius: 6px;
+}
+.yellow{
+    background-color: yellow;
+    padding: 5px;
+    border-radius: 6px;
+}
+.bold{
+    font-weight: bold;
+}
